@@ -1,0 +1,6 @@
+{
+  "fingerprint": "7cc63975883f3ea6bb7f19f997ddaebc0acec86cf9a772b0a1d0db5abd9a6958",
+  "embedding_model": "models/gemini-embedding-2",
+  "chunk_count": 184,
+  "collection_name": "ifachguard_7cc63975883f3ea6"
+}
